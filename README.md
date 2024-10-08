@@ -15,7 +15,7 @@ Passionné par le développement web et la cybersécurité, je suis en pleine ph
 - 🐘 PHP
 - ⚛️ React
 - 🐳 Docker
-- 🛠️ Symfony  (symbole du développement)
+- 🛠️ Symfony
 - 🗄️ SQL
 
 ## 🌱 Objectifs d'Apprentissage
